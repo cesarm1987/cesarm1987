@@ -7,5 +7,5 @@ I help developers reach their goals with my training and mentoring.
 
 #### Where to find me
 
-- [Twitter] (https:https://twitter.com/CesarMAlpizar)
-- [Youtube] (https://www.youtube.com/channel/UCHDTrUKJVWlde547XN8UTRw)
+- Twitter (https:https://twitter.com/CesarMAlpizar)
+- Youtube (https://www.youtube.com/channel/UCHDTrUKJVWlde547XN8UTRw)
