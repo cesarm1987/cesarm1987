@@ -4,6 +4,8 @@ Cesar Morera joined DXC in December 2021 as Salesforce developer for the Apps SL
 Before joining DXC, I had worked as a system engineer in a mid-sized company developing report distribution and document archiving solutions.
 At this moment I am working with co-workers the integration project finishing the phase 2 related with flow diagrams and analysis.
 
+Skills: Apex Programming · Salesforce.com · AngularJS · JavaScript · HTML
+
 #### Where to find me
 
 - Twitter (https:https://twitter.com/CesarMAlpizar)
