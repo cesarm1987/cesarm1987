@@ -1,6 +1,6 @@
 Hello there,
 
-Network Designer multivendor. I am passionate about technologies with 5+ years of IT experience mainly in networking and Linux.
+Network Design multivendor. I am passionate about technologies with 5+ years of IT experience mainly in networking and Linux.
 
 During the last couple of months I helped out students from Costa Rica Collegues to implement networks mainly for colleges projects.
 In addition to that I gave them private lessons to pass the CCNA modules exams. #CCNA #network #success #career #NetworkDesigner
