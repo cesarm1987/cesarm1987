@@ -1,10 +1,8 @@
 Hello there,
 
-Triligual Network Designer and Salesforce Developer. I am passionate about technologies with 8+ years of IT experience mainly in basic programing and networking. I helped classmates and students with homework related to CCNA, programing both in Java and Python mainly.
-A team leader always working along with co-workers to complete projects and goals together.
+Trilingual Network Designer and Salesforce Developer. I am passionate about technologies and have more than 8 years of IT experience, mainly in basic programming and networking. I helped classmates and students with homework related to CCNA, programming both in Java and Python mainly. A team leader always works with co-workers to complete projects and goals together.
 
-During the last couple of months I helped out students from Costa Rica Collegues to implement networks mainly for colleges projects.
-In addition to that I gave them private lessons to pass the CCNA modules exams. #CCNA #network #success #career #NetworkDesigner
+During the last couple of months, I helped out students from Costa Rica and colleagues to implement networks, mainly for college projects. In addition to that, I gave them private lessons to pass the CCNA module exams. #CCNA #network #success #career #NetworkDesigner
 
 #### Where to find me
 
