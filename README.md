@@ -1,6 +1,6 @@
 Hello there,
 
-Trilingual Network Designer and Salesforce Developer. I am passionate about technologies and have more than 8 years of IT experience, mainly in basic programming and networking. I helped classmates and students with homework related to CCNA, programming in Apex, Bash, Java and Python. A team leader always working with my peers to accomplish projects and goals together.
+Portuguese Network Designer and Salesforce Developer. I am passionate about technologies and have more than 8 years of IT experience, mainly in basic programming and networking. I helped classmates and students with homework related to CCNA, programming in Apex, Bash, Java and Python. A team leader always working with my peers to accomplish projects and goals together.
 
 During the last 2 years, I helped out students from Costa Rican colleagues to implement networks, mainly for college projects. In addition to that, I gave them private lessons to pass the CCNA module exams. #CCNA #network #success #career #NetworkDesigner
 
