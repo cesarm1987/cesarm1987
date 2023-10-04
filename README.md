@@ -1,12 +1,8 @@
-Hello there,
+Dear Customer,
 
-Portuguese Network Engineer and Salesforce Developer. I am passionate about technologies and have more than 8 years of IT experience, mainly in basic programming and networking. I helped classmates and students with homework related to CCNA, programming in Apex, Bash, Java and Python. A team leader always working with my peers to accomplish projects and goals together.
+Passionate Network Design Engineer, Linux and Salesforce Administrator. I am eager to learn about technologies and have more than 8 years of IT experience, mainly in basic programming and networking. Furthermore, I helped classmates and students with homework related to CCNA, programming in Apex, Bash, Java and Python. A team leader, always working with my peers to accomplish projects and goals together.
 
-#VeloCloud #Meraki #VMware #SD-WAN #Fortinet
-
-During the last 2 years, I helped out students from Costa Rican Universities to implement networks, mainly for college projects. In addition to that, I gave them private lessons to pass the CCNA module exams. 
-
-#CCNA #network #success #career #NetworkDesigner
+During the last 2 years, I helped out students from Costa Rican Universities to implement networks, mainly for college projects. In addition to that, I gave them tutoring lessons to pass the CCNA module exams.
 
 #### Where to find me
 
