@@ -1,8 +1,20 @@
-Dear Customer,
+Some of my skills
 
-Passionate Network Design Engineer, Linux and Salesforce Administrator. I am eager to learn about technologies and have more than 8 years of IT experience, mainly in basic programming and networking. Furthermore, I helped classmates and students with homework related to CCNA, programming in Apex, Bash, Java and Python. A team leader, always working with my peers to accomplish projects and goals together.
+• CCNA Certified.
+• Linux Instructor
+• Meraki AP and switches
+• Velo Cloud SD-WAN implementation
+• Riverbed SDWAN
+• NSE 4 Training completed
+• Salesforce Developer Certified
+• Experience creating scripts in Linux distribution such as Debian and CentOS7
+• Experience creating automating scripts for Juniper and Cisco devices.
 
-During the last 2 years, I helped out students from Costa Rican Universities to implement networks, mainly for college projects. In addition to that, I gave them tutoring lessons to pass the CCNA module exams.
+• Professional sense of urgency.
+• Able to manage successfully multiple responsibilities in highly demanding settings. 
+• Organized and structured worker, focused on quality, detail and problem solving.
+• Proactive learner, always willing to improve and teach others.
+• Ability to adapt to changes easily.
 
 #### Where to find me
 
