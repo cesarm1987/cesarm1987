@@ -1,6 +1,6 @@
 Some of my skills
 
-• CCNA Certified.
+• CCNA Certified
 
 • Linux Instructor
 
@@ -14,19 +14,19 @@ Some of my skills
 
 • Salesforce Developer Certified
 
-• Experience creating scripts in Linux distribution such as Debian and CentOS7
+• Experience creating scripts in Linux distributions such as Debian and CentOS7
 
-• Experience creating automating scripts for Juniper and Cisco devices.
+• Experience creating automating scripts for Juniper and Cisco devices
 
-• Professional sense of urgency.
+• Professional sense of urgency
 
-• Able to manage successfully multiple responsibilities in highly demanding settings. 
+• Able to manage successfully multiple responsibilities in highly demanding settings
 
-• Organized and structured worker, focused on quality, detail and problem solving.
+• Organized and structured worker, focused on quality, detail and problem solving
 
-• Proactive learner, always willing to improve and teach others.
+• Proactive learner, always willing to improve and teach others
 
-• Ability to adapt to changes easily.
+• Ability to adapt to changes easily
 
 #### Where to find me
 
