@@ -1,4 +1,5 @@
-AboutAbout
+About
+
 Some of my skills
 
 • CCNA and CCNP Knowledge and experience
