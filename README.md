@@ -1,6 +1,6 @@
-About
+About me:
 
-Some of my skills
+These are some of my skills
 
 • CCNA and CCNP Knowledge and experience
 • Python, Java and Apex programming skills
