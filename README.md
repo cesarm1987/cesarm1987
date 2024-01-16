@@ -1,22 +1,20 @@
-About me:
+Professional Summary
 
-These are some of my skills
+Methodical Network Engineer offers 8-year history of success designing, configuring, and testing network communication systems.
 
-• CCNA and CCNP Knowledge and experience
-• Python, Java and Apex programming skills
-• Linux Instructor
-• Meraki AP and switches
-• SD-WAN implementation
-• NSE 4 Training completed
-• Salesforce Developer Certified
-• Experience creating scripts in Linux distributions such as Debian and CentOS7
-• Experience creating automating scripts for Juniper and Cisco devices
+Innovative and strategic problem-solver with expert execution of Phyton and Java. Proactive critical thinker and thought leader with high-level capability in network optimization and risk assessment.
 
-• Professional sense of urgency
-• Able to manage successfully multiple responsibilities in highly demanding settings
-• Organized and structured worker, focused on quality, detail and problem solving
-• Proactive learner, always willing to improve and teach others
-• Ability to adapt to changes easily
+Skills
+
+• Data Verification 
+• Error Detection 
+• Compiling Data
+• Information Verification 
+• Calm Under Pressure 
+• Analytical Thinking
+• Technical Troubleshooting 
+• Network Performance Monitoring 
+• Equipment Configuration
 
 #### Where to find me
 
