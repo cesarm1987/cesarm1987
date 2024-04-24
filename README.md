@@ -1,6 +1,6 @@
 Professional Summary
 
-Methodical Network Engineer offers 8-year history of success designing, configuring, and testing network communication systems.
+Methodical Network Engineer offers +10-years history of success designing, configuring, and testing network communication systems.
 
 Innovative and strategic problem-solver with expert execution of Phyton and Java. Proactive critical thinker and thought leader with high-level capability in network optimization and risk assessment.
 
