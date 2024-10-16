@@ -18,6 +18,5 @@ Skills
 
 #### Where to find me
 
-- Youtube (https://www.youtube.com/channel/UCHDTrUKJVWlde547XN8UTRw)
 - LinkedIn (https://www.linkedin.com/in/cesarmorera1987/)
 - Facebook (https://www.facebook.com/profile.php?id=61558719902515)
